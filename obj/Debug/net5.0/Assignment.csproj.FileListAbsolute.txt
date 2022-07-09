@@ -1,0 +1,116 @@
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\bin\Debug\net5.0\appsettings.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\bin\Debug\net5.0\Assignment.exe
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\bin\Debug\net5.0\Assignment.deps.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.dev.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\bin\Debug\net5.0\Assignment.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\bin\Debug\net5.0\ref\Assignment.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\bin\Debug\net5.0\Assignment.pdb
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfo.cs
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\obj\Debug\net5.0\staticwebassets\Assignment.StaticWebAssets.Manifest.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\obj\Debug\net5.0\staticwebassets\Assignment.StaticWebAssets.xml
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\obj\Debug\net5.0\scopedcss\bundle\Assignment.styles.css
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.RazorTargetAssemblyInfo.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.csproj.CopyComplete
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\obj\Debug\net5.0\ref\Assignment.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.pdb
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Day 4\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.genruntimeconfig.cache
+D:\Web API Core\CLI\Assignment\bin\Debug\net5.0\appsettings.Development.json
+D:\Web API Core\CLI\Assignment\bin\Debug\net5.0\appsettings.json
+D:\Web API Core\CLI\Assignment\bin\Debug\net5.0\Assignment.StaticWebAssets.xml
+D:\Web API Core\CLI\Assignment\bin\Debug\net5.0\Assignment.exe
+D:\Web API Core\CLI\Assignment\bin\Debug\net5.0\Assignment.deps.json
+D:\Web API Core\CLI\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.json
+D:\Web API Core\CLI\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.dev.json
+D:\Web API Core\CLI\Assignment\bin\Debug\net5.0\Assignment.dll
+D:\Web API Core\CLI\Assignment\bin\Debug\net5.0\Assignment.pdb
+D:\Web API Core\CLI\Assignment\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Web API Core\CLI\Assignment\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Web API Core\CLI\Assignment\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Web API Core\CLI\Assignment\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.csproj.AssemblyReference.cache
+D:\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfoInputs.cache
+D:\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfo.cs
+D:\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.csproj.CoreCompileInputs.cache
+D:\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.MvcApplicationPartsAssemblyInfo.cs
+D:\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.MvcApplicationPartsAssemblyInfo.cache
+D:\Web API Core\CLI\Assignment\obj\Debug\net5.0\scopedcss\bundle\Assignment.styles.css
+D:\Web API Core\CLI\Assignment\obj\Debug\net5.0\staticwebassets\Assignment.StaticWebAssets.Manifest.cache
+D:\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.RazorTargetAssemblyInfo.cache
+D:\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.csproj.CopyComplete
+D:\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.dll
+D:\Web API Core\CLI\Assignment\obj\Debug\net5.0\refint\Assignment.dll
+D:\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.pdb
+D:\Web API Core\CLI\Assignment\obj\Debug\net5.0\Assignment.genruntimeconfig.cache
+D:\Web API Core\CLI\Assignment\obj\Debug\net5.0\ref\Assignment.dll
+C:\Users\ADMIN\Desktop\Assignment\Assignment\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ADMIN\Desktop\Assignment\Assignment\bin\Debug\net5.0\appsettings.json
+C:\Users\ADMIN\Desktop\Assignment\Assignment\bin\Debug\net5.0\Assignment.StaticWebAssets.xml
+C:\Users\ADMIN\Desktop\Assignment\Assignment\bin\Debug\net5.0\Assignment.exe
+C:\Users\ADMIN\Desktop\Assignment\Assignment\bin\Debug\net5.0\Assignment.deps.json
+C:\Users\ADMIN\Desktop\Assignment\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Assignment\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Assignment\Assignment\bin\Debug\net5.0\Assignment.dll
+C:\Users\ADMIN\Desktop\Assignment\Assignment\bin\Debug\net5.0\Assignment.pdb
+C:\Users\ADMIN\Desktop\Assignment\Assignment\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ADMIN\Desktop\Assignment\Assignment\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADMIN\Desktop\Assignment\Assignment\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADMIN\Desktop\Assignment\Assignment\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADMIN\Desktop\Assignment\Assignment\obj\Debug\net5.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Assignment\Assignment\obj\Debug\net5.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Assignment\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Assignment\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Assignment\Assignment\obj\Debug\net5.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Assignment\Assignment\obj\Debug\net5.0\Assignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Assignment\Assignment\obj\Debug\net5.0\Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\Assignment\Assignment\obj\Debug\net5.0\scopedcss\bundle\Assignment.styles.css
+C:\Users\ADMIN\Desktop\Assignment\Assignment\obj\Debug\net5.0\staticwebassets\Assignment.StaticWebAssets.Manifest.cache
+C:\Users\ADMIN\Desktop\Assignment\Assignment\obj\Debug\net5.0\Assignment.RazorTargetAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\Assignment\Assignment\obj\Debug\net5.0\Assignment.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Assignment\Assignment\obj\Debug\net5.0\Assignment.dll
+C:\Users\ADMIN\Desktop\Assignment\Assignment\obj\Debug\net5.0\refint\Assignment.dll
+C:\Users\ADMIN\Desktop\Assignment\Assignment\obj\Debug\net5.0\Assignment.pdb
+C:\Users\ADMIN\Desktop\Assignment\Assignment\obj\Debug\net5.0\Assignment.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Assignment\Assignment\obj\Debug\net5.0\ref\Assignment.dll
+C:\Users\ADMIN\Desktop\Internship\Assignment\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ADMIN\Desktop\Internship\Assignment\bin\Debug\net5.0\appsettings.json
+C:\Users\ADMIN\Desktop\Internship\Assignment\bin\Debug\net5.0\Assignment.StaticWebAssets.xml
+C:\Users\ADMIN\Desktop\Internship\Assignment\bin\Debug\net5.0\Assignment.exe
+C:\Users\ADMIN\Desktop\Internship\Assignment\bin\Debug\net5.0\Assignment.deps.json
+C:\Users\ADMIN\Desktop\Internship\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Internship\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Internship\Assignment\bin\Debug\net5.0\Assignment.dll
+C:\Users\ADMIN\Desktop\Internship\Assignment\bin\Debug\net5.0\Assignment.pdb
+C:\Users\ADMIN\Desktop\Internship\Assignment\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ADMIN\Desktop\Internship\Assignment\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADMIN\Desktop\Internship\Assignment\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADMIN\Desktop\Internship\Assignment\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADMIN\Desktop\Internship\Assignment\obj\Debug\net5.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Internship\Assignment\obj\Debug\net5.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Internship\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Internship\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Internship\Assignment\obj\Debug\net5.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Internship\Assignment\obj\Debug\net5.0\Assignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Internship\Assignment\obj\Debug\net5.0\Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\Internship\Assignment\obj\Debug\net5.0\scopedcss\bundle\Assignment.styles.css
+C:\Users\ADMIN\Desktop\Internship\Assignment\obj\Debug\net5.0\staticwebassets\Assignment.StaticWebAssets.Manifest.cache
+C:\Users\ADMIN\Desktop\Internship\Assignment\obj\Debug\net5.0\Assignment.RazorTargetAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\Internship\Assignment\obj\Debug\net5.0\Assignment.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Internship\Assignment\obj\Debug\net5.0\Assignment.dll
+C:\Users\ADMIN\Desktop\Internship\Assignment\obj\Debug\net5.0\refint\Assignment.dll
+C:\Users\ADMIN\Desktop\Internship\Assignment\obj\Debug\net5.0\Assignment.pdb
+C:\Users\ADMIN\Desktop\Internship\Assignment\obj\Debug\net5.0\Assignment.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Internship\Assignment\obj\Debug\net5.0\ref\Assignment.dll
