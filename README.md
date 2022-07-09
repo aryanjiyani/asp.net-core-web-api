@@ -7,11 +7,12 @@ Createed a project with 5 API methods
 3. Put - IActionResult Subtract(int first, int second)
 4. Put - IActionResult Delete(int first, int second)
 5. Get - IActionResult GetData() - should return List<Person>
+    
     class Person
     {
              public int Id { get; set; }
              public string Name { get; set; }
-     }
+    }
     
     
 It will work in dotnet5.0 and in this project, there are total 5 Web APIs.
